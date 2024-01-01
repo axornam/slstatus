@@ -1,0 +1,10 @@
+--- Makefile
++++ Makefile
+@@ -14,6 +14,7 @@
+ 	components/entropy\
+ 	components/hostname\
+ 	components/ip\
++	components/kanji\
+ 	components/kernel_release\
+ 	components/keyboard_indicators\
+ 	components/keymap\

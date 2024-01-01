@@ -31,6 +31,7 @@ static const char unknown_str[] = "n/a";
  * hostname            hostname                        NULL
  * ipv4                IPv4 address                    interface name (eth0)
  * ipv6                IPv6 address                    interface name (eth0)
+ * kanji               japanese day of week kanji      NULL
  * kernel_release      `uname -r`                      NULL
  * keyboard_indicators caps/num lock indicators        format string (c?n?)
  *                                                     see keyboard_indicators.c

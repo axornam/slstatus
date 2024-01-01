@@ -1,0 +1,12 @@
+--- slstatus.h
++++ slstatus.h
+@@ -31,6 +31,9 @@
+ const char *ipv4(const char *interface);
+ const char *ipv6(const char *interface);
+ 
++/* kanji */
++const char *kanji(const char *unused);
++
+ /* kernel_release */
+ const char *kernel_release(const char *unused);
+ 
